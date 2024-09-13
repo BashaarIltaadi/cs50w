@@ -1,0 +1,10 @@
+h1 {
+    color:rebeccapurple;
+    text-align: center;
+}
+
+h1 #bye {
+    color: red;
+    text-shadow: blueviolet;
+}
+
